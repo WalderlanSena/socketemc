@@ -1,4 +1,4 @@
-# :computer: Socket em C
+# :computer: Socket em C para :penguin: Linux
 Socket desenvolvido em C Cliente/Servidor
 
 
